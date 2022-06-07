@@ -44,6 +44,6 @@ paste the code from the main.py file in this repository.
 
 upload an image to the root of your myproject folder that will serve as a logo
 
-run the in your terminal
+run the app in your terminal
 
 $ python main.py
